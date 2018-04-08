@@ -10,4 +10,5 @@ Encodepad 是python GUI加解密测试工具箱，用来测试各种文本或二进制内容的加解密，支
 ## Run
 	双击运行，如讨厌出现的dos窗口，可重命名后缀*.py至*.pyw。
 
-	* ![运行效果](https://github.com/spkettas/encodepad/blob/master/images/encodepad.png "encodepad")
+运行截图：
+* ![运行效果](https://github.com/spkettas/encodepad/blob/master/images/encodepad.png "encodepad")
