@@ -1,14 +1,13 @@
 # encodepad
-=====
 
-Encodepad ÊÇpython GUI¼Ó½âÃÜ²âÊÔ¹¤¾ßÏä£¬ÓÃÀ´²âÊÔ¸÷ÖÖÎÄ±¾»ò¶ş½øÖÆÄÚÈİµÄ¼Ó½âÃÜ£¬Ö§³Ömd5/sha/rsa/rc4/des/aesµÈ¼ÓÃÜËã·¨¡£
+Encodepad æ˜¯python GUIåŠ è§£å¯†æµ‹è¯•å·¥å…·ç®±ï¼Œç”¨æ¥æµ‹è¯•å„ç§æ–‡æœ¬æˆ–äºŒè¿›åˆ¶å†…å®¹çš„åŠ è§£å¯†ï¼Œæ”¯æŒmd5/sha/rsa/rc4/des/aesç­‰åŠ å¯†ç®—æ³•ã€‚
 
-## °²×°ÒÀÀµ¿â
+## å®‰è£…ä¾èµ–åº“
     pip install wxpython
 	pip install pycrypto
   
 ## Run
-	Ë«»÷ÔËĞĞ£¬ÈçÌÖÑá³öÏÖµÄdos´°¿Ú£¬¿ÉÖØÃüÃûºó×º*.pyÖÁ*.pyw¡£
+	åŒå‡»è¿è¡Œï¼Œå¦‚è®¨åŒå‡ºç°çš„dosçª—å£ï¼Œå¯é‡å‘½ååç¼€*.pyè‡³*.pywã€‚
 
-ÔËĞĞ½ØÍ¼£º
-* ![ÔËĞĞĞ§¹û](https://github.com/spkettas/encodepad/blob/master/images/encodepad.png "encodepad")
+è¿è¡Œæˆªå›¾ï¼š
+* ![è¿è¡Œæ•ˆæœ](https://github.com/spkettas/encodepad/blob/master/images/encodepad.png "encodepad")
